@@ -128,5 +128,5 @@ def recommend(uid):
         print("가장 최근 문서가 비어 있습니다.")
 
 if __name__=='__main__':
-    uid = 'mO6CjKpGLJNVbZmhnIJlLrtemY33'
+    uid = ''
     recommend(uid)
