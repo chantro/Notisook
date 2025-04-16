@@ -92,7 +92,7 @@
 | Name         | Role                  | GitHub ID                    |
 |--------------|-----------------------|------------------------------|
 | Cheayeon Kim | Frontend Developer    | https://github.com/wfs0502   |
-| Siyoung Kimm | Frontend Developer    | https://github.com/hyunvely8 |
+| Siyoung Kim | Frontend Developer    | https://github.com/hyunvely8 |
 | Suhyun Lee   | Modeling & Connecting | https://github.com/chantro   |
 
 > Feel free to contact us or contribute through GitHub issues and pull requests!
