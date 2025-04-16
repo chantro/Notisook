@@ -16,7 +16,7 @@
 - Sends push notifications via FCM for newly recommended posts.
 
 ### 3️⃣ Save & Calendar Integration
-- Users can save ("scrap") important announcements.
+- Users can scrap important announcements.
 - Integrate saved announcements with their Google Calendar.
 
 ### 4️⃣ Keyword-Based Search & Exploration
