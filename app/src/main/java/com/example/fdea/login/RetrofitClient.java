@@ -9,7 +9,7 @@ public class RetrofitClient {
     public static Retrofit getRetrofit(){
         if(retrofit==null){
             Retrofit.Builder builder = new Retrofit.Builder();
-            builder.baseUrl("http://52.78.93.139:5000/");
+            builder.baseUrl("http://{ec2IP}:5000/");
             //builder.baseUrl("http://localhost:3000/");
             builder.addConverterFactory(GsonConverterFactory.create());
 
