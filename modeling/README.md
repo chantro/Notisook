@@ -37,9 +37,9 @@
 | 데이터 | 설명 | 사용 목적 |
 |------|------|------|
 | viewedPosts | 사용자가 조회한 공지 | BPR 학습 |
-| scrappedPosts | 사용자가 저장한 공지 | BPR 학습 (강한 선호 신호) |
+| scrappedPosts | 사용자가 저장한 공지 | BPR 학습 |
 
-👉 조회(view)는 약한 관심 신호, 스크랩(scrap)은 강한 관심 신호로 해석하여  
+👉 조회(view), 스크랩(scrap)을 
 **implicit feedback 기반 추천 모델에 함께 반영**
 
 ---
