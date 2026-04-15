@@ -1,4 +1,4 @@
-# 📌 Notisook: 통합 공지사항 추천 시스템 (Portfolio + Research Version)
+# 📌 Notisook: 추천 시스템
 
 ---
 
